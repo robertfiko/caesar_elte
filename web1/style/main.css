@@ -1,0 +1,71 @@
+/* Style sheet switch - Accessibility */
+a#acces {display: block;}
+a#normal {display: none;}
+
+#accessible {
+    background-color: deeppink;
+    border-radius: 10px;
+    color: white!important; 
+}
+
+.kipozicional a {position:absolute; left:-9999px;}
+.kipozicional a:focus {position:static; background:white}
+
+/* Main styling */
+body {
+    font-family: "Segoe UI","Helvetica Neue",Arial,"Noto Sans",sans-serif;
+    padding-top: 55px;
+    background-color: antiquewhite;
+}
+
+a {
+    text-decoration: underline;
+}
+nav a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkmagenta;
+}
+
+h1 {
+    display: block;
+    font-size: 1.5em;
+}
+
+h2 {
+    display: block;
+    font-size: 1.3em;
+}
+
+img {
+    margin: 5px 5px;
+}
+
+figcaption {
+    text-align: center;
+}
+
+footer {
+    opacity: 0.7;
+}
+
+/* Header: nav, subtitle */
+
+nav.navbar-custom {
+    background-color: burlywood;
+}
+
+.subtitle {
+    background-color: #ccb699;
+    width: 100%;
+    padding: 5px 0px 5px 40px; /*top, right, bottom, left*/
+}
+
+
+/* Content container */
+.custom-content {
+    margin-top: 15px;
+    text-align: justify;
+}

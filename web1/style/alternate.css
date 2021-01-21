@@ -1,0 +1,46 @@
+@import url('alapstilus.css');
+body {
+    font-size:2em;
+    background-color: black;
+    color: white;
+    padding-top: 80px;
+}
+
+nav.navbar-custom{
+    background-color:rgb(156, 13, 90);
+    color: cyan;
+}
+
+nav a:hover {
+    color: rgb(230, 247, 0)!important;
+}
+
+nav a {
+    color: cyan!important;
+}
+
+#accessible {
+    background-color: burlywood;
+    border-radius: 10px;
+}
+
+.subtitle {
+    background-color:darkslategrey;
+}
+
+table.bg-table tr {
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 1px solid white;
+}
+
+a:visited {
+    color: deeppink;
+}
+
+a {
+    color: aqua;
+}
+
+
+a#acces {display: none;}
+a#normal {display: block;}
