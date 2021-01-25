@@ -1,0 +1,88 @@
+{
+      "szobak": [
+            {
+                  "szobaszam": "101",
+                  "tipus": "standard",
+                  "foglalt": true,
+                  "ejszakak": 5,
+                  "vendegek": [
+                        "Miksa Laura",
+                        "Faragó Zoltán"
+                  ]
+            },
+            {
+                  "szobaszam": "102",
+                  "tipus": "standard",
+                  "foglalt": true,
+                  "ejszakak": 2,
+                  "vendegek": [
+                        "Bodnár Evelin"
+                  ]
+            },
+            {
+                  "szobaszam": "103",
+                  "tipus": "superior",
+                  "foglalt": false,
+                  "ejszakak": 0,
+                  "vendegek": []
+            },
+            {
+                  "szobaszam": "201",
+                  "tipus": "standard",
+                  "foglalt": true,
+                  "ejszakak": 2,
+                  "vendegek": [
+                        "Csatár Marcell",
+                        "Antal Dorottya"
+                  ]
+            },
+            {
+                  "szobaszam": "202",
+                  "tipus": "deluxe",
+                  "foglalt": false,
+                  "ejszakak": 0,
+                  "vendegek": []
+            },
+            {
+                  "szobaszam": "237",
+                  "tipus": "superior",
+                  "foglalt": true,
+                  "ejszakak": 4,
+                  "vendegek": [
+                        "Jack Torrance",
+                        "Wendy Torrance",
+                        "Danny Torrance"
+                  ]
+            },
+            {
+                  "szobaszam": "301",
+                  "tipus": "president",
+                  "foglalt": false,
+                  "ejszakak": 0,
+                  "vendegek": []
+            },
+            {
+                  "szobaszam": "302",
+                  "tipus": "superior",
+                  "foglalt": false,
+                  "ejszakak": 0,
+                  "vendegek": []
+            },
+            {
+                  "szobaszam": "303",
+                  "tipus": "standard",
+                  "foglalt": true,
+                  "ejszakak": 2,
+                  "vendegek": [
+                        "Balázs Melinda",
+                        "Somogyi Richárd"
+                  ]
+            }
+      ],
+      "szobaarak": {
+            "standard": "10000",
+            "superior": "20000",
+            "deluxe": "30000",
+            "president": "40000"
+      }
+}
