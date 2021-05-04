@@ -28,5 +28,8 @@ Akinek van megoldása erre nyugodtan dobjon egy mailt a g55ofz@inf. ... .hu -ra_
 ## IV. félév (2020/2021/2 tavasz)
 [Félév mappa 4.](semesters/4/)
 
+[Szofttech projekt leírás](semesters/4/rollercoaster_tycoon.pdf)
+
+
 _Érdemes szétnézni a COLLAB oldalon is!_
 
