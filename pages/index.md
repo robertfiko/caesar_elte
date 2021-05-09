@@ -1,5 +1,5 @@
 # Kezdőlap
-## Hasznos linkek és információk
+### Hasznos linkek és információk
 Itt jelentős mennyiségű információ áll rendelkezésetekre:
 
 [COLLAB Oldal](redirect_collab.html)
@@ -14,12 +14,9 @@ _Érdemes szétnézni a COLLAB oldalon is!_
 
 [Webfejlesztés beadandó](semesters/2/web1)
 
-_Érdemes szétnézni a COLLAB oldalon is!_
 
 ## III. félév (2020/2021/1 ősz)
 [Félév mappa 3.](semesters/3/)
-
-_Érdemes szétnézni a COLLAB oldalon is!_
 
 _Megjegyzés: Sajnos a CAESAR szerver valamiért az olvasási és írási jogok megadása esetén sem hajlandü JSON-t olvasni.
 Akinek van megoldása erre nyugodtan dobjon egy mailt a g55ofz@inf. ... .hu -ra_
@@ -28,8 +25,10 @@ Akinek van megoldása erre nyugodtan dobjon egy mailt a g55ofz@inf. ... .hu -ra_
 ## IV. félév (2020/2021/2 tavasz)
 [Félév mappa 4.](semesters/4/)
 
-[Szofttech projekt leírás](semesters/4/rollercoaster_tycoon.pdf)
+### Szofttech
+[Projekt leírás](semesters/4/rollercoaster_tycoon.pdf)
 
+### Operáció rendszerek
+[Beej's Guide To IPC - Egy nagyon hasznos doksi opre-re](semesters/4/ipc_beejs.pdf)
 
-_Érdemes szétnézni a COLLAB oldalon is!_
 
